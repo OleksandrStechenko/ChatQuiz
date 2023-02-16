@@ -1,0 +1,101 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of &quot;Team Fortress 2&quot; update, in which it became Free-to-play?",
+      "correct_answer": "&Uuml;ber Update",
+      "incorrect_answers": [
+        "Pyromania Update",
+        "Mann-Conomy Update",
+        "Engineer Update"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+      "correct_answer": "Hogarth Hughes",
+      "incorrect_answers": ["Kent Mansley", "Dean McCoppin", "Annie Hughes"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+      "correct_answer": "V",
+      "incorrect_answers": ["X", "III", "IV"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Twitch streamer is the vocalist for Red Vox?",
+      "correct_answer": "Vinesauce",
+      "incorrect_answers": ["The8BitDrummer", "LIRIK", "Sodapoppin"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is NOT the name of an album released by Miami-based producer DJ Khaled?",
+      "correct_answer": "Don&#039;t Ever Play Yourself",
+      "incorrect_answers": [
+        "Major Key",
+        "Suffering From Success",
+        "I Changed A Lot"
+      ]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The board game, Nightmare was released in what year?",
+      "correct_answer": "1991",
+      "incorrect_answers": ["1992", "1989", "1995"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which team was the 2015-2016 NBA Champions?",
+      "correct_answer": "Cleveland Cavaliers",
+      "incorrect_answers": [
+        "Golden State Warriors",
+        "Toronto Raptors",
+        "Oklahoma City Thunders"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+      "correct_answer": "Light",
+      "incorrect_answers": ["Water", "Trees", "Pollen"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In computing, what does MIDI stand for?",
+      "correct_answer": "Musical Instrument Digital Interface",
+      "incorrect_answers": [
+        "Musical Interface of Digital Instruments",
+        "Modular Interface of Digital Instruments",
+        "Musical Instrument Data Interface"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Nintendo Game Splatoon 2, what is Marina&#039;s screen name?",
+      "correct_answer": "DJ_Hyperfresh",
+      "incorrect_answers": ["MC.princess", "Kidnotsquid123", "I&lt;30ffTh3H00k"]
+    }
+  ]
+}
